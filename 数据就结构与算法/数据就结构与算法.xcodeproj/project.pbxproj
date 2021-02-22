@@ -315,7 +315,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				344111F52578E13500F454C7 /* FYRandomNumber.m in Sources */,
 				344111F82579DCBF00F454C7 /* FYSort.m in Sources */,
 				34411204257A062400F454C7 /* FYSelectionSort.m in Sources */,
 				34C6F82A2574908E00A59C3E /* ViewController.m in Sources */,
@@ -332,6 +331,7 @@
 				34C6F8272574908E00A59C3E /* SceneDelegate.m in Sources */,
 				34411213257DB08200F454C7 /* FYInsertionSort.m in Sources */,
 				344112012579E64A00F454C7 /* FYBubbleSort2.m in Sources */,
+				344111F52578E13500F454C7 /* FYRandomNumber.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
